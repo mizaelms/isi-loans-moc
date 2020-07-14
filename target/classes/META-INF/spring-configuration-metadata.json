@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "oracle",
+      "type": "com.citi.msstarchitecture.isiloans.database.Conexion",
+      "sourceType": "com.citi.msstarchitecture.isiloans.database.Conexion"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
